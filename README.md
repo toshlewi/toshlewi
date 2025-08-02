@@ -34,7 +34,7 @@ If you're looking for:
 - Custom web app development
 - Frontend/backend projects
 
-📩 **Let's connect**: [adelewigitz@gmail.com](mailto:adelewigitz@gmail.com)
+📩 **Let's connect**: [toshdevelopers@gmail.com](mailto:toshdevelopers@gmail.com)
 
 ---
 
